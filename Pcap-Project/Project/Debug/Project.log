@@ -1,0 +1,34 @@
+﻿  projekat.c
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(214): warning C4013: 'setup_custom_header' undefined; assuming extern returning int
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(214): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(215): warning C4013: 'setup_udp_header' undefined; assuming extern returning int
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(215): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(216): warning C4013: 'setup_ipv4_header' undefined; assuming extern returning int
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(216): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(217): warning C4013: 'setup_ethernet_header' undefined; assuming extern returning int
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(217): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(247): warning C4113: 'void *(__cdecl *)()' differs in parameter lists from 'void *(__cdecl *)(void *)'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(64): warning C4101: 'result': unreferenced local variable
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(66): warning C4101: 'packet_data': unreferenced local variable
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(65): warning C4101: 'packet_header': unreferenced local variable
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(348): warning C4293: '<<': shift count negative or too big, undefined behavior
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(359): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(360): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(361): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(362): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(367): warning C4098: 'packet_handler_eth': 'void' function returning a value
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(344): warning C4090: 'initializing': different 'const' qualifiers
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(415): warning C4293: '<<': shift count negative or too big, undefined behavior
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(426): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(427): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(428): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(429): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(433): warning C4098: 'packet_handler_wifi': 'void' function returning a value
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(410): warning C4090: 'initializing': different 'const' qualifiers
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(490): warning C4090: '=': different 'const' qualifiers
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(495): warning C4090: '=': different 'const' qualifiers
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(484): warning C4090: 'initializing': different 'const' qualifiers
+c:\users\student\desktop\marko2\matorir\pcap-project\project\projekat.c(508): warning C4716: 'listenOverWiFi': must return a value
+projekat.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Project.vcxproj -> C:\Users\student\Desktop\MARKO2\MatoriR\Pcap-Project\Project\.\Debug\Project.exe
+  Project.vcxproj -> .\Debug\Project.pdb (Full PDB)
